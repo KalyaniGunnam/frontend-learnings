@@ -38,8 +38,8 @@ Visit the Visual Studio Code website. Choose the version for your operating syst
 - Click Install.
 - When the installation finishes, launch Visual Studio Code and click Finish.
 
-## Creating a Project Folder and First HTML File:
-Create a Folder for Your Website:
+# Creating a Project Folder and First HTML File:
+## Create a Folder for Your Website:
     - Open VS Code.
     - Go to File > Open Folder.
     - Navigate to where you want the folder to be (e.g., your desktop).
