@@ -1,4 +1,4 @@
-# Header Tags (<h1> to <h6>):
+# Header Tags `(<h1> to <h6>)`:
 - Header tags are used for titles or large text.
 - `<h1>` defines the largest heading, and `<h6>` defines the smallest heading.
 Example:
