@@ -52,3 +52,64 @@ Visit the Visual Studio Code website. Choose the version for your operating syst
 - Click the New File button or use the shortcut.
 - Name the file index.html.
 You are now ready to start writing HTML code in your newly created file.
+
+# Why index.html?
+This is the default file most servers look for to serve as the homepage.Naming it index.html ensures compatibility and good practice.
+
+# Installing the Live Server Extension:
+- Open the extensions tab in the VS Code.
+- Search for Live Server and install the extension.
+
+# Purpose of Live Server:
+It automatically updates your browser view whenever you save changes to your HTML file, saving time during development.
+
+# Setting up basic HTML structure:
+Open index.html file and start by declaring the document type:
+
+`<!DOCTYPE html>`
+
+This declaration specifies that the document is written in HTML5, the latest version of HTML.
+
+## Creating the HTML Root Element:
+### Add the root <html> tags:
+```
+<html>
+</html>
+```
+Everything in your HTML document will be nested inside these tags. The `<html>` element represents the entire document.
+
+### Adding the <head> Section:
+Inside the `<html>` element, create a <head> section:
+```
+<head>
+</head>
+```
+The `<head>` section contains metadata about your webpage, such as the title and links to stylesheets or scripts.
+
+### Setting the Title:
+Add a `<title>` element inside the `<head>`:
+```
+<title>My First Website</title>
+```
+The `<title>` sets the text displayed in the browser tab.
+
+### Viewing the Page with Live Server:
+- Right-click on the index.html file in the Explorer tab.
+- Select Open with Live Server.
+Your default browser will open and display the webpage.
+
+*`Tip:`* Arrange the browser window side-by-side with VS Code for seamless updates while coding.
+Example Code for the Setup:
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My First Website</title>
+  </head>
+</html>
+```
+
+### Benefits of Using Live Server:
+Automatic browser refresh on file save.
+Immediate feedback while working on your HTML file.
+Saves time by eliminating the need to manually refresh the browser.
