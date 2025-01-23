@@ -78,20 +78,16 @@ This declaration specifies that the document is written in HTML5, the latest ver
 ```
 Everything in your HTML document will be nested inside these tags. The `<html>` element represents the entire document.
 
-### Adding the <head> Section:
-Inside the `<html>` element, create a `<head>` section:
+### Adding the <head> and <body> Section:
+Inside the `<html>` element, create a `<head>` and `<body>` sections:
 ```
 <head>
 </head>
-```
-The `<head>` section contains **metadata** about your webpage, such as the title and links to stylesheets or scripts.
-
-### Adding the <body> Section:
-Inside the `<html>` element, create a `<body>` section:
-```
 <body>
 </body>
 ```
+The `<head>` section contains **metadata** about your webpage, such as the title and links to stylesheets or scripts.
+
 The `<body>` section contains the **visible content** of the webpage.
 
 ### Setting the Title:
@@ -100,6 +96,13 @@ Add a `<title>` element inside the `<head>`:
 <title>My First Website</title>
 ```
 The `<title>` sets the text displayed in the browser tab.
+
+### Setting the Content on your webpage:
+Add a `<h1>` element inside the `<body>`:
+```
+<h1>This is an H1 heading</h1>
+```
+The `<h1>` tag are used to display the text for titles or larger text in the webpage.
 
 ### Viewing the Page with Live Server:
 - Right-click on the index.html file in the Explorer tab.
