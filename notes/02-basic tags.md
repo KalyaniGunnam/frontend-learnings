@@ -1,4 +1,4 @@
-# Header Tags `(<h1> to <h6>)`:
+# Header Tags (`<h1> to <h6>`):
 - Header tags are used for titles or large text.
 - `<h1>` defines the largest heading, and `<h6>` defines the smallest heading.
 Example:
@@ -11,7 +11,7 @@ Example:
 <h6>This is an H6 heading</h6>
 ```
 
-# Paragraph Tags (<p>):
+# Paragraph Tags (`<p>`):
 - Use `<p>` tags to define a paragraph of text.
 Example:
 ```
@@ -20,7 +20,7 @@ Example:
 - VS Code Shortcut:
 To quickly generate placeholder text, type lorem and press Tab.
 
-# Line Breaks (<br>):
+# Line Breaks (`<br>`):
 - Use the `<br>` tag to insert a line break.
 Example:
 ```
@@ -28,7 +28,7 @@ Example:
 ```
 - The `<br>` tag is self-closing, so it does not need a closing tag.
 
-# Horizontal Rule (<hr>):
+# Horizontal Rule (`<hr>`):
 - The `<hr>` tag creates a horizontal line across the page.
 Example:
 ```
@@ -37,7 +37,7 @@ Example:
 <p>This is a paragraph below a horizontal line.</p>
 ```
 
-# Preformatted Text (<pre>):
+# Preformatted Text (`<pre>`):
 - The `<pre>` tag preserves all spaces and line breaks inside it.
 ```
 <pre>
