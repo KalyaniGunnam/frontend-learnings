@@ -40,12 +40,12 @@ Visit the Visual Studio Code website. Choose the version for your operating syst
 
 # Creating a Project Folder and First HTML File:
 ## Create a Folder for Your Website:
-    - Open VS Code.
-    - Go to File > Open Folder.
-    - Navigate to where you want the folder to be (e.g., your desktop).
-    - Create a new folder by clicking New Folder.
-    - Name the folder, for example, vscode_workspace.
-    - Select the folder to open it in VS Code.
+- Open VS Code.
+- Go to File > Open Folder.
+- Navigate to where you want the folder to be (e.g., your desktop).
+- Create a new folder by clicking New Folder.
+- Name the folder, for example, vscode_workspace.
+- Select the folder to open it in VS Code.
 
 ## Create Your First HTML File:
 Inside the vscode_workspace folder in VS Code:
