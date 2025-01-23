@@ -25,8 +25,8 @@ So we can say that,
 - CSS (Cascading Style Sheets): The design, decorations and colors—the visual styling of the webpage.
 
 ## Tools You Need to Start Working with HTML and CSS:
-- A Modern Web Browser: Google Chrome, Firefox, Microsoft Edge, Safari.
-- A Text Editor: Visual Studio Code (VS Code), a free and powerful code editor that acts as your workspace for writing code.
+- **A Modern Web Browser:** Google Chrome, Firefox, Microsoft Edge, Safari.
+- **A Text Editor:** Visual Studio Code (VS Code), a free and powerful code editor that acts as your workspace for writing code.
 
 ## Setting Up Your Environment
 To begin working with HTML and CSS, follow these steps to download, install and configure Visual Studio Code (VS Code), and prepare a project folder.
@@ -39,7 +39,7 @@ Visit the Visual Studio Code website. Choose the version for your operating syst
 - When the installation finishes, launch Visual Studio Code and click Finish.
 
 ## Creating a Project Folder and First HTML File:
-    - Create a Folder for Your Website:
+Create a Folder for Your Website:
     - Open VS Code.
     - Go to File > Open Folder.
     - Navigate to where you want the folder to be (e.g., your desktop).
@@ -48,13 +48,13 @@ Visit the Visual Studio Code website. Choose the version for your operating syst
     - Select the folder to open it in VS Code.
 
 ## Create Your First HTML File:
-- Inside the Website folder in VS Code:
+Inside the vscode_workspace folder in VS Code:
 - Click the New File button or use the shortcut.
 - Name the file index.html.
 You are now ready to start writing HTML code in your newly created file.
 
 # Why index.html?
-This is the default file most servers look for to serve as the homepage.Naming it index.html ensures compatibility and good practice.
+This is the default file most servers look for to serve as the homepage. Naming it index.html ensures compatibility and good practice.
 
 # Installing the Live Server Extension:
 - Open the extensions tab in the VS Code.
