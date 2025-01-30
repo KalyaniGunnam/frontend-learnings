@@ -1,9 +1,9 @@
 # Lists
 In HTML, lists are used to group items in a structured way. There are three main types of lists:
 
-- Unordered List (<ul>)
-- Ordered List (<ol>)
-- Description List (<dl>)
+- Unordered List `(<ul>)`
+- Ordered List `(<ol>)`
+- Description List `(<dl>)`
 
 ## 1️⃣ Unordered List (<ul>)
 An unordered list is used when the order of the items doesn't matter. The list items are displayed with bullet points by default.
