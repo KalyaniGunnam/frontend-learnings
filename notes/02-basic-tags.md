@@ -98,3 +98,19 @@ Example:
   </body>
 </html>
 ```
+
+# Note
+Till this point all the tags are called **text formatting tags**, which means *text formatting tags in HTML are used to style,structure and emphasize text content without relying on CSS. These tags help nake text bold,italic, underlined,highted,small,big, etc..*
+```
+<h1> to <h6> ---> Headings
+<p> ---> Paragraph
+<b>, <strong> ---> Bold
+<i>, <em> ---> Italic
+<u> ---> Underlined
+<small> ---> Smaller text
+<mark> ---> Highlight text
+<sub> & <sup> ---> Subscript and Superscript
+<pre> ---> Preformatted text
+<hr> ---> Horizontal line
+<br> ---> Line break
+```
