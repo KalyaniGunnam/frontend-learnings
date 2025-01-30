@@ -100,7 +100,7 @@ Example:
 ```
 
 # Note
-Till this point all the tags are called **text formatting tags**, which means *text formatting tags in HTML are used to style,structure and emphasize text content without relying on CSS. These tags help nake text bold,italic, underlined,highted,small,big, etc..*
+Till this point all the tags are called **text formatting tags**, which means *text formatting tags in HTML are used to style,structure and emphasize text content without relying on CSS. These tags help make text bold,italic, underlined,highted,small,big, etc..*
 ```
 <h1> to <h6> ---> Headings
 <p> ---> Paragraph
