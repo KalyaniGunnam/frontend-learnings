@@ -2,7 +2,9 @@
 Links (also known as hyperlinks) are used to navigate between different web pages, sections within a page, or external websites. Links are created using the <a> (anchor) tag.
 
 ## 1️⃣ Basic Syntax of a Link
+```
 <a href="https://example.com">Click Here</a>
+```
 - href (Hyperlink Reference) → Specifies the URL to navigate to when clicked.
 - Text between <a> and </a> → The clickable text.
 
