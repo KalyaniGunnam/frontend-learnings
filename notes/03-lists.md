@@ -90,11 +90,11 @@ You can create lists inside other lists (nested lists). You can nest `<ul>`, `<o
 Output:
 
 - Fruits
-        - Apples
-        - Bananas
+    - Apples
+    - Bananas
 - Vegetables
-        - Carrots
-        - Spinach
+  - Carrots
+  - Spinach
 
 ## Additional List Styling Using CSS
 You can style the lists to make them more visually appealing:
