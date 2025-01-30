@@ -6,7 +6,7 @@ Links (also known as hyperlinks) are used to navigate between different web page
 <a href="https://example.com">Click Here</a>
 ```
 - href (Hyperlink Reference) → Specifies the URL to navigate to when clicked.
-- Text between <a> and </a> → The clickable text.
+- Text between &lt; a &gt; and &lt; /a &gt; → The clickable text.
 
 ## 2️⃣ Types of Links
 ### 1. Absolute Links (External Links)
