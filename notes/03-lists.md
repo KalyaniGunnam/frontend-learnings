@@ -147,13 +147,13 @@ ol {
     </tr>
     <tr>
         <th> Ordered List </th>
-        <td> &lt; ol &gt;` </th>
+        <td> &lt; ol &gt; </th>
         <td> When the order does matter </th>
         <td> Numbered </th>
     </tr>
     <tr>
         <th> Descrpition List </th>
-        <td> &lt; dl &gt;` </th>
+        <td> &lt; dl &gt; </th>
         <td>Used for terms and definitions </th>
         <td> None (formatted in terms of terms and descriptions) </th>
     </tr>
