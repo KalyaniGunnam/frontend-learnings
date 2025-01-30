@@ -141,7 +141,7 @@ ol {
 <tbody>
     <tr>
         <th> Unordered List </th>
-        <td> ```<ul>``` </th>
+        <td>  &lt; ul &gt; </th>
         <td> When the order doesn't matter </th>
         <td> Bullets </th>
     </tr>
