@@ -141,19 +141,19 @@ ol {
 <tbody>
     <tr>
         <th> Unordered List </th>
-        <td> `<ul>` </th>
+        <td> `<`ul`>` </th>
         <td> When the order doesn't matter </th>
         <td> Bullets </th>
     </tr>
     <tr>
         <th> Ordered List </th>
-        <td> `<ol>` </th>
+        <td> `<`ol`>` </th>
         <td> When the order does matter </th>
         <td> Numbered </th>
     </tr>
     <tr>
         <th> Descrpition List </th>
-        <td> `<dl>` </th>
+        <td> `<`dl`>` </th>
         <td>Used for terms and definitions </th>
         <td> None (formatted in terms of terms and descriptions) </th>
     </tr>
