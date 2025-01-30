@@ -5,7 +5,7 @@ In HTML, lists are used to group items in a structured way. There are three main
 - Ordered List `(<ol>)`
 - Description List `(<dl>)`
 
-## 1️⃣ Unordered List (<ul>)
+## 1️⃣ Unordered List `(<ul>)`
 An unordered list is used when the order of the items doesn't matter. The list items are displayed with bullet points by default.
 ```
 <ul>
@@ -29,7 +29,7 @@ ul {
 }
 ```
 
-## 2️⃣ Ordered List (<ol>)
+## 2️⃣ Ordered List `(<ol>)`
 An ordered list is used when the order of the items does matter. The list items are numbered by default.
 ```
 <ol>
@@ -52,7 +52,7 @@ ol {
     list-style-type: lower-alpha; /* a, b, c */
 }
 
-## 3️⃣ Description List (<dl>)
+## 3️⃣ Description List `(<dl>)`
 A description list is used to define a list of terms and their descriptions. It uses `<dt>` for the term and `<dd>` for the description.
 ```
 <dl>
