@@ -39,10 +39,11 @@ An ordered list is used when the order of the items does matter. The list items 
 </ol>
 ```
 Output:
-
-- 1. Step 1: Preheat the oven.
-- 2. Step 2: Mix the ingredients.
-- 3. Step 3: Bake for 30 minutes.
+```
+1. Step 1: Preheat the oven.
+2. Step 2: Mix the ingredients.
+3. Step 3: Bake for 30 minutes.
+```
 
 ## Customizing the Numbering:
 You can change the numbering style using CSS:
