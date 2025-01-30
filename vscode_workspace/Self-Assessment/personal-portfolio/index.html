@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Portfolio</title>
+</head>
+<body>
+    <header>
+        <h1 class="logo"><a href="#">Kalyani Gunnam</a></h1>
+        <nav aria-label="Primary Navigation">
+            <ul>
+                <li><a href="#">Portfolio</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Experience</a></li>
+                <li><a href="#">Projects</a></li>
+                <li><a href="#">Education</a></li>
+            </ul>
+        </nav>
+        <button type="submit">Contact Me</button>
+    </header>
+
+    <main>
+        <section>
+            <p>Hi</p>
+            <h2>I'm <span>Kalyani</span></h2>
+            <p>a Front-end Developer</p>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ea dolorum accusantium omnis incidunt nobis iure minima consectetur repudiandae cum corrupti harum rem quibusdam at quos reiciendis adipisci, eveniet odit. Temporibus!</p>
+            <button type="submit">Hire Me</button>
+            <button type="submit">Experience</button>
+        </section>
+        <section>
+            <img src="https://images.pexels.com/photos/206557/pexels-photo-206557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Portfolio" width="500">
+        </section>
+        <section>
+            <h2>Contact Me</h2>
+            <form action="/submit" method="post">
+                <label for="name">Name</label>
+                <input type="text" id="name" name="name" required>
+                
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="Phone">Phone Number</label>
+                <input type="tel" id="phone" name="phone" required>
+                
+                <label for="message">Your Message</label>
+                <textarea id="message" name="message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; <span id="year"></span> Kalyani Gunnam</p>
+        <script>
+            document.getElementById('year').textContent = new Date().getFullYear();
+        </script>
+    </footer>
+    
+</body>
+</html>

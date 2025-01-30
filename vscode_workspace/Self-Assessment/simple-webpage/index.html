@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Web Page</title>
+</head>
+<body>
+    <header>
+        <h1>Simple Web Page</h1>
+    </header>
+    
+    <nav aria-label="Primary Navigation">
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+        <section>
+            <h2>Home</h2>
+            <p>Welcome to the simple web page.</p>
+        </section>
+        <section>
+            <h2>About</h2>
+            <img src="http://plus.unsplash.com/premium_photo-1664474619075-644dd191935f?q=80&w=2938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="sample web page" width="100">
+            <p>This is a simple web page created using HTML.</p>
+        </section>
+        <section>
+            <h2>Contact</h2>
+            <p>Contact us at <a href = "gunnam.kalyanii@gmail.com">Kalyani</a></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; <span id="year"></span> Simple Web Page</p>
+        <script>
+            document.getElementById('year').textContent = new Date().getFullYear();
+        </script>
+    </footer>
+</body>
+</html>
