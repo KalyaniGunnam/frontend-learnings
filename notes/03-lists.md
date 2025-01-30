@@ -47,11 +47,13 @@ Output:
 
 ## Customizing the Numbering:
 You can change the numbering style using CSS:
+```
 ol {
     list-style-type: upper-roman; /* I, II, III */
     list-style-type: decimal; /* 1, 2, 3 */
     list-style-type: lower-alpha; /* a, b, c */
 }
+```
 
 ## 3️⃣ Description List `(<dl>)`
 A description list is used to define a list of terms and their descriptions. It uses `<dt>` for the term and `<dd>` for the description.
