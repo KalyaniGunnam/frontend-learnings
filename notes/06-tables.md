@@ -95,6 +95,7 @@ To improve table structure and styling, use:
 - `<thead>` → Table header section.
 - `<tbody>` → Table body section.
 - `<tfoot>` → Table footer section.
+
 🔹 Example:
 ```
 <table border="1">
