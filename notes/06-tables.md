@@ -8,6 +8,7 @@ A simple HTML table consists of:
 - `<tr>` → Defines a row.
 - `<th>` → Defines a header cell (bold and centered by default).
 - `<td>` → Defines a standard cell (table data).
+
 🔹 Example:
 ```
 <table border="1">
