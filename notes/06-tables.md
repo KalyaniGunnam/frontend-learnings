@@ -4,10 +4,10 @@ HTML tables are used to display tabular data in a structured format using rows a
 ## Basic Table Structure
 A simple HTML table consists of:
 
-- <table> → Defines the table.
-- <tr> → Defines a row.
-- <th> → Defines a header cell (bold and centered by default).
-- <td> → Defines a standard cell (table data).
+- `<table>` → Defines the table.
+- `<tr>` → Defines a row.
+- `<th>` → Defines a header cell (bold and centered by default).
+- `<td>` → Defines a standard cell (table data).
 🔹 Example:
 ```
 <table border="1">
