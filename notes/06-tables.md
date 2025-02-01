@@ -166,8 +166,8 @@ To make tables scrollable on small screens, use CSS overflow or flexbox/grid-bas
 </div>
 ```
 ## Summary
-Use `<table>` for tabular data.
-Apply `border-collapse:` collapse; for a clean layout.
-Use colspan and rowspan to merge cells.
-Wrap tables in a `<div>` with `overflow-x: auto;` for responsiveness.
-Prefer CSS styling instead of inline attributes.
+- Use `<table>` for tabular data.
+- Apply `border-collapse:` collapse; for a clean layout.
+- Use colspan and rowspan to merge cells.
+- Wrap tables in a `<div>` with `overflow-x: auto;` for responsiveness.
+- Prefer CSS styling instead of inline attributes.
